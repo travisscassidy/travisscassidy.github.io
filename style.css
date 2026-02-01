@@ -94,11 +94,12 @@ h2 {
 }
 
 .paper-authors {
-    font-style: italic;
+    font-style: normal;
 }
 
 .paper-journal {
-    color: #555;
+    font-weight: bold;
+    font-style: italic;
 }
 
 .paper-links a,
