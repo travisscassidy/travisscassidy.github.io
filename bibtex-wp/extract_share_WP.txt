@@ -1,0 +1,7 @@
+@TechReport{brehm-etal-2025,
+	author = {Margaret E. {Brehm} and Paul A. {Brehm} and Alecia {Cassidy} and Traviss {Cassidy}},
+	title = {Resource Booms, Revenue Sharing, and Growth},
+	year = {2025},
+	institution = {University of Alabama},
+	type = {Working Paper},
+}

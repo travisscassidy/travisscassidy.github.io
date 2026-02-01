@@ -1,0 +1,13 @@
+@article{cassidy-velayudhan-2024,
+	author = {Traviss {Cassidy} and Tejaswi {Velayudhan}},
+	title = {Government Fragmentation and Economic Growth},
+	journal = {Review of Economics and Statistics},
+	volume = {forthcoming},
+	number = {},
+	year = {2024},
+	month = {},
+	pages = {},
+	abstract = {We estimate the impact of local government fragmentation on economic activity in Indonesia over 2000--2014, when the number of districts increased by 50 percent. Exploiting idiosyncratic variation in the timing of district splits, we find that fragmentation reduces district GDP in the short term despite large increases in central transfers. The GDP decline is larger in ``child'' districts that acquire a new capital and government. Furthermore, splitting districts focus spending on administration without improving public services or reducing red tape and corruption. The downsides of fragmentation due to economies of scale and low bureaucratic capacity outweigh potential upsides.},
+	doi = {},
+	url = {}
+}

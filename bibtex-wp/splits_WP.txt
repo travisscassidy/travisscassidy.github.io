@@ -1,0 +1,7 @@
+@TechReport{cassidy-velayudhan-2023,
+	author = {Cassidy, Traviss and Velayudhan, Tejaswi},
+	title = {Government Fragmentation and Economic Growth},
+	year = {2023},
+	institution = {University of Alabama},
+	type = {Working Paper},
+}

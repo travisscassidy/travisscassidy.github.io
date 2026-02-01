@@ -1,0 +1,13 @@
+@article{alesina-cassidy-troiano-2019,
+author = {Alberto {Alesina} and Traviss {Cassidy} and Ugo {Troiano}},
+title = {Old and Young Politicians},
+journal = {Economica},
+volume = {86},
+number = {344},
+pages = {689-727},
+doi = {https://doi.org/10.1111/ecca.12287},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/ecca.12287},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecca.12287},
+abstract = {We consider the role of a politician's age in Italian municipal governments. When the term limit is not binding, younger mayors engage in political budget cycles more often than older mayors. Thus younger politicians behave more strategically in response to electoral incentives, probably because they expect to have a longer political career and stronger career concerns. We discuss and rule out several alternative interpretations.},
+year = {2019}
+}

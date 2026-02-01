@@ -1,0 +1,7 @@
+@TechReport{cassidy-2023,
+	author = {Cassidy, Traviss},
+	title = {Revenue Persistence and Public Service Delivery},
+	year = {2023},
+	institution = {University of Alabama},
+	type = {Working Paper},
+}

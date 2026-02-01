@@ -1,0 +1,12 @@
+@article{cassidy-2025,
+	author = {Traviss {Cassidy}},
+	title = {Revenue Persistence and Public Service Delivery},
+	journal = {Economic Journal},
+	volume = {135},
+	number = {670},
+	year = {2025},
+	month = {August},
+	pages = {2017-2053},
+	abstract = {I exploit unusual policy variation in Indonesia to examine how local responses to intergovernmental grants depend on their persistence. A national reform generated permanent increases in the general grant that were larger for less densely populated districts, while hydrocarbon-rich districts experienced transitory shocks to shared resource revenue. Public service delivery strongly responded to the permanent shock, but not to the transitory shocks, consistent with districts providing lumpy public services as a function of lifetime fiscal resources. The timing and composition of expenditure responses are consistent with this mechanism. The results suggest that the underwhelming effects of natural resource revenue found in previous studies could be due, in part, to forward-looking behavior by local governments.},
+	url = {https://doi.org/10.1093/ej/ueaf022}
+}
