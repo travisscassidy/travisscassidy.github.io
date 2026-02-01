@@ -27,9 +27,22 @@ nav {
     z-index: 100;
 }
 
-nav .nav-links {
+nav .nav-inner {
     max-width: 800px;
     margin: 0 auto;
+}
+
+nav .site-title {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #2a2a2a;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+nav .site-title:hover {
+    text-decoration: none;
 }
 
 nav .nav-links a {
