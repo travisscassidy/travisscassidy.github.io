@@ -71,6 +71,12 @@ h2 {
 
 .paper-title {
     font-weight: bold;
+    color: #1a5276;
+    text-decoration: none;
+}
+
+.paper-title:hover {
+    text-decoration: underline;
 }
 
 .paper-authors {
