@@ -169,6 +169,13 @@ h2 {
     color: #0027a0;
 }
 
+.paper-abstract {
+    margin-top: 4px;
+    margin-left: 18px;
+    font-size: 0.9em;
+    color: #2a2a2a;
+}
+
 .paper-media-list {
     margin-top: 4px;
     margin-left: 18px;
