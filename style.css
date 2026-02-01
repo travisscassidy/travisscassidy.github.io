@@ -170,6 +170,7 @@ h2 {
 }
 
 .paper-abstract {
+    display: block;
     margin-top: 4px;
     margin-left: 18px;
     font-size: 0.9em;
