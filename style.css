@@ -154,6 +154,8 @@ h2 {
 .paper-links a + a::before {
     content: " · ";
     color: #2a2a2a;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .paper-links a:hover,
