@@ -170,7 +170,7 @@ h2 {
 }
 
 .paper-toggle {
-    font-size: 0.9em;
+    font-size: 0.81em;
     color: #0027a0;
     text-decoration: none;
     cursor: pointer;
@@ -184,7 +184,7 @@ h2 {
     display: none;
     margin-top: 4px;
     margin-left: 18px;
-    font-size: 0.9em;
+    font-size: 0.81em;
     color: #2a2a2a;
 }
 
