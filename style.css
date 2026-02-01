@@ -151,13 +151,6 @@ h2 {
     text-decoration: none;
 }
 
-.paper-links a + a::before {
-    content: "·";
-    color: #2a2a2a;
-    text-decoration: none;
-    display: inline-block;
-    padding: 0 0.3em;
-}
 
 .paper-links a:hover,
 .paper-media summary:hover {
