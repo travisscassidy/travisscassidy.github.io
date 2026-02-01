@@ -141,13 +141,11 @@ h2 {
     font-size: 0.9em;
     color: #0027a0;
     text-decoration: none;
-    margin-right: 4px;
 }
 
 .paper-links a + a::before {
-    content: "· ";
+    content: " · ";
     color: #2a2a2a;
-    margin-right: 4px;
 }
 
 .paper-links a:hover,
