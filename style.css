@@ -49,13 +49,17 @@ nav .site-title:hover {
 nav .nav-links a {
     margin-right: 20px;
     text-decoration: none;
-    color: #0027a0;
+    color: #888;
     font-size: 18px;
 }
 
-nav .nav-links a:hover,
-nav .nav-links a.active {
+nav .nav-links a:hover {
     text-decoration: underline;
+}
+
+nav .nav-links a.active {
+    color: #2a2a2a;
+    text-decoration: none;
 }
 
 nav .nav-toggle {
