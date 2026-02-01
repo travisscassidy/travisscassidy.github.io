@@ -169,12 +169,27 @@ h2 {
     color: #0027a0;
 }
 
+.paper-toggle {
+    font-size: 0.9em;
+    color: #0027a0;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.paper-toggle:hover {
+    text-decoration: underline;
+}
+
 .paper-abstract {
-    display: block;
+    display: none;
     margin-top: 4px;
     margin-left: 18px;
     font-size: 0.9em;
     color: #2a2a2a;
+}
+
+.paper-abstract.open {
+    display: block;
 }
 
 .paper-media-list {
