@@ -158,7 +158,6 @@ h2 {
 }
 
 .paper-media {
-    font-size: 0.9em;
     margin-top: 2px;
     display: inline;
 }
@@ -195,7 +194,7 @@ h2 {
 .paper-media-list {
     margin-top: 4px;
     margin-left: 18px;
-    font-size: 0.9em;
+    font-size: 1em;
 }
 
 .paper-media-list a {
