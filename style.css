@@ -183,8 +183,10 @@ h2 {
     display: none;
     margin-top: 4px;
     margin-left: 18px;
+    padding-left: 12px;
+    border-left: 3px solid #ccc;
     font-size: 0.9em;
-    color: #2a2a2a;
+    color: #888;
 }
 
 .paper-abstract.open {
