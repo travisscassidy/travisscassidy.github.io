@@ -184,9 +184,9 @@ h2 {
     margin-top: 4px;
     margin-left: 18px;
     padding-left: 12px;
-    border-left: 3px solid #ccc;
+    border-left: 2px solid #ccc;
     font-size: 0.9em;
-    color: #888;
+    color: #666;
 }
 
 .paper-abstract.open {
