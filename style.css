@@ -158,7 +158,6 @@ h2 {
 }
 
 .paper-media {
-    font-size: 0.9em;
     margin-top: 2px;
     display: inline;
 }
@@ -170,7 +169,7 @@ h2 {
 }
 
 .paper-toggle {
-    font-size: 0.81em;
+    font-size: 0.9em;
     color: #0027a0;
     text-decoration: none;
     cursor: pointer;
@@ -184,8 +183,10 @@ h2 {
     display: none;
     margin-top: 4px;
     margin-left: 18px;
-    font-size: 0.81em;
-    color: #2a2a2a;
+    padding-left: 12px;
+    border-left: 2px solid #ccc;
+    font-size: 0.9em;
+    color: #666;
 }
 
 .paper-abstract.open {
@@ -195,7 +196,7 @@ h2 {
 .paper-media-list {
     margin-top: 4px;
     margin-left: 18px;
-    font-size: 0.9em;
+    font-size: 1em;
 }
 
 .paper-media-list a {
