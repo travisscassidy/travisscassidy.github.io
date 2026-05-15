@@ -1,0 +1,13 @@
+@article{brehm-brehm-cassidy-cassidy-2026,
+    author = {Margaret E. {Brehm} and Paul A. {Brehm} and Alecia {Cassidy} and {Traviss Cassidy}},
+    title = {Resource booms, revenue sharing, and growth},
+    journal = {Journal of Development Economics},
+    volume = {182},
+    pages = {103811},
+    year = {2026},
+    issn = {0304-3878},
+    doi = {https://doi.org/10.1016/j.jdeveco.2026.103811},
+    url = {https://www.sciencedirect.com/science/article/pii/S0304387826000945},
+    keywords = {Growth, Resource booms, Decentralization, Manufacturing firms, Indonesia, Dutch disease},
+    abstract = {Using a natural experiment in Indonesia, we estimate the separate economic effects of natural resource booms and shared resource revenue. Contrary to Dutch disease concerns, oil and gas booms promote manufacturing growth, and shared revenue does not harm local manufacturing firms. Shared revenue significantly raises local non-oil GDP, but resource booms do not. Supply-side factors help explain the results: shared revenue increases local population and firm entry, while resource booms do not. Oil and gas booms thus benefit local economies largely through shared revenue. Where the revenue is spent matters more for local growth than where the resources are extracted.},
+}
